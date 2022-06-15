@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1001750066357",
+    "firebase_url": "https://confluence2019-24365.firebaseio.com",
+    "project_id": "confluence2019-24365",
+    "storage_bucket": "confluence2019-24365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001750066357:android:93e44ea95f8d6dcfa73afc",
+        "android_client_info": {
+          "package_name": "com.virtoustack.confluence_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001750066357-3lgh8lqk533ujdhiq6badn3oidbu07fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virtoustack.confluence_connect",
+            "certificate_hash": "65100aa02e208c511be2103e82fa0a9d0f3ea262"
+          }
+        },
+        {
+          "client_id": "1001750066357-fbit0lu5u0rlc1r492s9s2hgjahe3udi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLWW8fKwjqcw_CKvX1PiAeorElNSISgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001750066357-fbit0lu5u0rlc1r492s9s2hgjahe3udi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001750066357-i2p811h2kngelg8ql5a73almpmpg3kug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.virtoustack.confluenceConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
